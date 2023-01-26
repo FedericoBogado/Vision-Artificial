@@ -9,4 +9,4 @@ Este repositorio sera actualizado cada vez que encuentre algun codigo para subir
 ## 🖥 Tecnologias utilizadas
 
  - [🐍Python](https://www.python.org/)
- - [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+   - [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
